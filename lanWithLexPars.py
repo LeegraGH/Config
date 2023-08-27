@@ -107,5 +107,5 @@ class MyLanguage:
 
 
 if __name__ == '__main__':
-    file = "D:\\Программирование\\Python\\HW_CONFIG\\mirea.txt"
+    file = "mirea.txt"
     MyLanguage().get_json_data()
